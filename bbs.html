@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Github | BBS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons.min.js"></script>
+</head>
+
+<body>
+    <nav class="uk-navbar-container" uk-navbar>
+        <div class="uk-navbar-center">
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href="/">BBS</a></li>
+                <li><a href="https://github,com/opera7133">Back to Profile</a></li>
+                <li><a href="https://github.com/opera7133/opera7133">Repo</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="uk-container">
+        <div id="coral_thread"></div>
+        <script type="text/javascript">
+            (function () {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://coral-com.herokuapp.com/assets/js/embed.js';
+                s.async = false;
+                s.defer = true;
+                s.onload = function () {
+                    Coral.createStreamEmbed({
+                        id: "coral_thread",
+                        autoRender: true,
+                        rootURL: 'https://coral-com.herokuapp.com',
+                        // Uncomment these lines and replace with the ID of the
+                        // story's ID and URL from your CMS to provide the
+                        // tightest integration. Refer to our documentation at
+                        // https://docs.coralproject.net for all the configuration
+                        // options.
+                        // storyID: '${storyID}',
+                        // storyURL: '${storyURL}',
+                    });
+                };
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+    </div>
+</body>
+
+</html>
