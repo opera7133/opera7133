@@ -3,7 +3,7 @@
 
 あなたは[![Visitor Count](https://profile-counter.glitch.me/opera7133/count.svg)](#)人目の訪問者です。
 
-キリ番報告は[こちら](https://wmsc.netlify.app/bbs.html)
+キリ番報告は[こちら](https://github.com/opera7133/opera7133/issues/1)
 
 ## 使えるもの / Skill
 
