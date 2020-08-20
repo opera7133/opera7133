@@ -6,6 +6,10 @@
 
 キリ番報告は[こちら](https://github.com/opera7133/opera7133/issues/1)
 
+## 統計 / Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 使えるもの / Skill
 
 - PHP
