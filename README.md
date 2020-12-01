@@ -15,6 +15,7 @@
 - PHP
 - HTML
 - CSS
+- JS
 - C# (a little)
 - Python
 
