@@ -6,11 +6,11 @@
 
 キリ番報告は[こちら](https://github.com/opera7133/opera7133/discussions/3)
 
-## 統計 / Stats
+## :bar_chart: 統計 / Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 使えるもの / Skill
+## :pencil2: 使えるもの / Skill
 
 - PHP
 - HTML
@@ -19,7 +19,7 @@
 - C# (a little)
 - Python
 
-## お問い合わせ / Contact
+## :mailbox: お問い合わせ / Contact
 
 Telegram : [@wamo_sc](https://t.me/wamo_sc)  
 Mail : [ainznino@pm.me](mailto:ainznino@pm.me)
