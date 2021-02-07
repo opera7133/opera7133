@@ -1,6 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/scgame_m?color=%231DA1F2&style=for-the-badge)](https://twitter.com/scgame_m)
 [![Blog](https://img.shields.io/badge/Blog-Acto-fd9827?style=for-the-badge)](https://blog.wmsci.com)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G521C62)
+[![Buy me a coffee](https://raw.githubusercontent.com/opera7133/opera7133/4e4937714cbedb5633289d270165e39301584541/buymecoffee.svg)](https://www.buymeacoffee.com/wamosc)
 
 あなたは[![Visitor Count](https://profile-counter.glitch.me/opera7133/count.svg)](#)人目の訪問者です。
 
