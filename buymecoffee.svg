@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d4163746f2d6664393832373f7374796c653d666f722d7468652d6261646765.svg"
+   id="svg16"
+   version="1.1"
+   aria-label="BLOG: ACTO"
+   role="img"
+   height="28.384054"
+   width="250.26201">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>BLOG: ACTO</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     inkscape:current-layer="g14"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="19.233497"
+     inkscape:cx="137.25916"
+     inkscape:zoom="2.6951754"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview18"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title2">BLOG: ACTO</title>
+  <g
+     transform="translate(-10.046532,-48.536636)"
+     id="g14"
+     font-size="100px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <rect
+       y="48.536636"
+       x="10.046532"
+       height="28.384052"
+       width="250.26201"
+       id="rect851"
+       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:0.978477" />
+    <text
+       id="text849"
+       y="67.916786"
+       x="182.29938"
+       style="font-style:normal;font-weight:normal;font-size:13.4538px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.336345"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#ffffff;stroke-width:0.336345"
+         y="67.916786"
+         x="182.29938"
+         id="tspan847"
+         sodipodi:role="line">BUY ME A COFFEE</tspan></text>
+    <rect
+       y="48.536636"
+       x="10.046532"
+       height="28.384054"
+       width="93.500404"
+       id="rect853"
+       style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke-width:1.19152" />
+    <text
+       id="text857"
+       y="67.676369"
+       x="55.615013"
+       style="font-style:normal;font-weight:normal;font-size:12.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:0.811795px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.316984"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffffff;stroke-width:0.316984"
+         y="67.676369"
+         x="56.020908"
+         id="tspan855"
+         sodipodi:role="line">WAMOSC</tspan></text>
+  </g>
+</svg>
