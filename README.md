@@ -1,6 +1,6 @@
-[![Twitter](https://img.shields.io/twitter/follow/scgame_m?color=%231DA1F2&style=for-the-badge)](https://twitter.com/scgame_m)
+[![Twitter](https://img.shields.io/twitter/follow/scgame_m?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/scgame_m)
 [![Blog](https://img.shields.io/badge/Blog-Acto-fd9827?style=for-the-badge)](https://blog.wmsci.com)
-[![Buy me a coffee](https://raw.githubusercontent.com/opera7133/opera7133/4e4937714cbedb5633289d270165e39301584541/buymecoffee.svg)](https://www.buymeacoffee.com/wamosc)
+[![Buy me a coffee](https://img.shields.io/static/v1?label=wamosc&message=Buy%20Me%20a%20Coffee&color=FFDD00&logo=Buy%20Me%20a%20Coffee&style=for-the-badge)](https://www.buymeacoffee.com/wamosc)
 
 あなたは[![Visitor Count](https://profile-counter.glitch.me/opera7133/count.svg)](#)人目の訪問者です。
 
