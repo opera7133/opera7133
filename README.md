@@ -12,9 +12,10 @@
 
 ## :pencil2: 使えるもの / Skill
 
-- PHP
 - HTML
 - CSS
+- PHP
+- React(Next.js)
 - JS
 - C# (a little)
 - Python
