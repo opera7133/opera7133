@@ -20,9 +20,4 @@
 - C# (a little)
 - Python
 
-## :mailbox: お問い合わせ / Contact
-
-Telegram : [@wamo_sc](https://t.me/wamo_sc)  
-Mail : [ainznino@pm.me](mailto:ainznino@pm.me)
-
 [![busy_banner](https://user-images.githubusercontent.com/39876629/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)](#)
