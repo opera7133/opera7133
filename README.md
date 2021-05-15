@@ -10,14 +10,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :pencil2: 使えるもの / Skill
-
-- HTML
-- CSS
-- PHP
-- React(Next.js)
-- JS
-- C# (a little)
-- Python
-
 [![busy_banner](https://user-images.githubusercontent.com/39876629/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)](#)
