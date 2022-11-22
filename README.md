@@ -6,6 +6,10 @@
 
 キリ番報告は[こちら](https://github.com/opera7133/opera7133/discussions/3)
 
+## :bulb: スキル / Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,electron,tailwind,ai,svelte,nextjs,react,py,nodejs,bots&perline=5)](https://skillicons.dev)
+
 ## :bar_chart: 統計 / Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
