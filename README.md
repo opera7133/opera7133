@@ -12,6 +12,6 @@
 
 ## :bar_chart: 統計 / Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-bd33n4oct-wamo.vercel.app/api?username=opera7133&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![busy_banner](https://user-images.githubusercontent.com/39876629/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)](#)
