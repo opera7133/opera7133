@@ -8,7 +8,7 @@
 
 ## :bulb: スキル / Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,electron,tailwind,ai,svelte,nextjs,react,py,nodejs,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,electron,tailwind,ai,solidjs,svelte,nextjs,react,py,nodejs,bots&perline=5)](https://skillicons.dev)
 
 ## :bar_chart: 統計 / Stats
 
