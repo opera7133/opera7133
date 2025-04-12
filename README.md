@@ -8,10 +8,10 @@
 
 ## :bulb: スキル / Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,electron,tailwind,ai,solidjs,svelte,nextjs,react,py,nodejs,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,astro,bots,css,electron,figma,flutter,html,js,nextjs,nodejs,php,py,react,solidjs,svelte,tailwind,typescript,unity,vue,wordpress&perline=5)](https://skillicons.dev)
 
 ## :bar_chart: 統計 / Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![busy_banner](https://user-images.githubusercontent.com/39876629/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)](#)
