@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Acto-fd9827?style=for-the-badge)](https://blog.wmsci.com)
 [![Buy me a coffee](https://img.shields.io/static/v1?label=wamosc&message=Buy%20Me%20a%20Coffee&color=FF5E5B&logo=ko-fi&style=for-the-badge)](https://ko-fi.com/wamosc)
 
-あなたは[![Visitor Count](https://profile-counter.glitch.me/opera7133/count.svg)](#)人目の訪問者です。
+あなたは[![Visitor Count](https://profile-counter.francorz.deno.net/:key/count.svg)](#)人目の訪問者です。
 
 キリ番報告は[こちら](https://github.com/opera7133/opera7133/discussions/3)
 
