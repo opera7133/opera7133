@@ -14,4 +14,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=opera7133&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## :briefcase: 仕事募集中 / Open to Work
+
+お仕事のご依頼・ご相談は [メール](mailto:endxop@gmail.com) または [X/Twitter DM](https://x.com/scgame_m) までお気軽にどうぞ！
+
+Feel free to reach out for job opportunities via [Mail](mailto:endxop@gmail.com) or [X/Twitter DM](https://x.com/scgame_m)!
+
 [![busy_banner](https://user-images.githubusercontent.com/39876629/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)](#)
+
